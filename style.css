@@ -1,0 +1,41 @@
+.todo-list {
+    display: flex;
+    flex-direction: row;
+    padding: 7px 12px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    background-color: grey;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#todo-apps {
+    display: flex;
+    flex-direction: column;
+    background-color: #cecece;
+    width: 400px;
+    margin: 0 auto;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+    
+
+#todo-apps h1 {
+    background-color: #0099ff;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    
+  }
+
+
+
